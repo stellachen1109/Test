@@ -8,5 +8,6 @@
 
 
 # Week 1
-- 建立GitHub
-- 學習markdown語法
+- 建立GitHub (完成)
+- 學習markdown語法 (完成)
+- 學習draw.io
