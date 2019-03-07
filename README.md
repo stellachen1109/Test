@@ -11,3 +11,5 @@
 - 建立GitHub (完成)
 - 學習markdown語法 (完成)
 - 學習draw.io (完成)
+- 作業
+...* Level 1: 從助教的程式碼中，挑出一段劃出流程圖，放至GitHub
