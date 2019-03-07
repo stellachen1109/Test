@@ -10,4 +10,8 @@
 # Week 1
 - 建立GitHub (完成)
 - 學習markdown語法 (完成)
-- 學習draw.io
+- 學習draw.io (完成)
+- 作業 (HW0)
+  * Level 1: 從助教的程式碼中，挑出一段畫出流程圖，放至GitHub (完成)
+  * Level 2: 從助教的程式碼中，挑出一段執行並寫上註解，放至GitHub 
+  * Level 3: 從助教的程式碼中，挑出一段修改並寫上修改說明，放至GitHub 
